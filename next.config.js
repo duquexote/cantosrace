@@ -8,8 +8,6 @@ const nextConfig = {
     remotePatterns: [],
   },
   experimental: {
-    // Algumas otimizações experimentais que podem ajudar no desempenho
-    optimizeCss: true,
     scrollRestoration: true,
   }
 }
