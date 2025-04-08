@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(145deg, #002200 0%, #004800 35%, #003300 70%, #002800 100%);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Adiciona sombreamento nos textos para melhor legibilidade */
+.text-shadow {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Efeito de vidro (glass morphism) */
+.glass-effect {
+  background: rgba(0, 40, 0, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(0, 255, 0, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+} 
