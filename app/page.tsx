@@ -53,7 +53,7 @@ export default function Home() {
               Você terá acesso exclusivo às minhas análises todos os dias!
             </p>
             <a 
-              href="https://t.me/+iOk3Yui8iEM4YTYx"
+              href="https://api.whatsapp.com/send?phone=557193320242&text=Quero%20entrar%20no%20grupo%20do%20GRATUITO%20Cantos%20Race%20do%20L%C3%A9o%20Bonavides"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block w-full md:w-auto md:mx-0 mx-auto"
