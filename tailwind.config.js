@@ -8,11 +8,11 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'race-green': '#006400',
-        'race-light-green': '#39FF14',
-        'race-dark-green': '#003300',
-        'race-forest-green': '#004d00',
-        'button-blue': '#00FF00'
+        'race-green': '#0047AB',
+        'race-light-green': '#1E90FF',
+        'race-dark-green': '#00008B',
+        'race-forest-green': '#4169E1',
+        'button-green': '#00BFFF'
       },
       animation: {
         'pulse-fast': 'pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite',
@@ -25,7 +25,7 @@ module.exports = {
         }
       },
       boxShadow: {
-        'glow': '0 0 15px 5px rgba(57, 255, 20, 0.3)',
+        'glow': '0 0 15px 5px rgba(30, 144, 255, 0.3)',
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
