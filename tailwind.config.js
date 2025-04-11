@@ -12,7 +12,7 @@ module.exports = {
         'race-light-green': '#39FF14',
         'race-dark-green': '#003300',
         'race-forest-green': '#004d00',
-        'button-green': '#00FF00'
+        'button-blue': '#00FF00'
       },
       animation: {
         'pulse-fast': 'pulse 1.5s cubic-bezier(0.4, 0, 0.6, 1) infinite',
