@@ -53,7 +53,7 @@ export default function Home() {
               Você terá acesso exclusivo às minhas análises todos os dias!
             </p>
             <a 
-              href="https://t.me/+iOk3Yui8iEM4YTYx"
+              href="https://t.me/+NrHXS6vjRX9mZmRh"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block w-full md:w-auto md:mx-0 mx-auto"

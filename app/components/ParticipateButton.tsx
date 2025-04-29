@@ -3,7 +3,7 @@ import React from 'react';
 export default function ParticipateButton() {
   return (
     <a 
-      href="https://t.me/+iOk3Yui8iEM4YTYx"
+      href="https://t.me/+NrHXS6vjRX9mZmRh"
       target="_blank"
       rel="noopener noreferrer"
       className="inline-block"
