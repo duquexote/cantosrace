@@ -1,6 +1,7 @@
 import React from 'react'
 import './globals.css'
 import type { Metadata } from 'next'
+import { Analytics } from '@vercel/analytics/react'
 
 export const metadata: Metadata = {
   title: 'Cantos Race - Análises Exclusivas',
@@ -42,7 +43,10 @@ export default function RootLayout({
         </noscript>
         {/* End Meta Pixel Code */}
       </head>
-      <body>{children}</body>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
   )
 } 
