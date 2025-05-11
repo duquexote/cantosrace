@@ -1,6 +1,7 @@
 import React from 'react'
 import './globals.css'
 import type { Metadata } from 'next'
+// Adicionando Vercel Analytics para rastreamento de visitantes
 import { Analytics } from '@vercel/analytics/react'
 
 export const metadata: Metadata = {
