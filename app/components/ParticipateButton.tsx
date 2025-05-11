@@ -3,7 +3,7 @@ import React from 'react';
 export default function ParticipateButton() {
   return (
     <a 
-      href="https://api.whatsapp.com/send?phone=557193320242&text=Quero%20entrar%20no%20grupo%20do%20GRATUITO%20Cantos%20Race%20do%20L%C3%A9o%20Bonavides"
+      href="https://t.me/+NrHXS6vjRX9mZmRh"
       target="_blank"
       rel="noopener noreferrer"
       className="inline-block"
