@@ -36,14 +36,22 @@ export default function Home() {
 
         {/* Content */}
         <div className="relative z-10 w-full max-w-7xl mx-auto px-4 pt-[50vh] md:pt-0 flex flex-col items-center md:items-start text-center md:text-left">
-         
+          {/* Logo */}
+          <div className="mb-4 animate-float">
+            <img
+              src="/cantos-race.svg"
+              alt="Race Logo"
+              style={{ width: '350px', height: 'auto' }}
+              className="drop-shadow-xl"
+            />
+          </div>
 
           <div className="md:w-1/2">
             <h1 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight leading-tight drop-shadow-lg text-shadow">
               A SUA EVOLUÇÃO NO JOGO COMEÇA AGORA!
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-gray-200">
-            Acesse o meu primeiro grupo VIP
+              Acesse o meu primeiro grupo VIP
             </p>
             <a 
               href="https://wa.link/dhn5lz"
